@@ -18,12 +18,12 @@ Hi!  My name is Ella Ogwo and I am a first year Information Systems Management s
 2. How to use different data visualization tools
 3. How to use create clear and cohesive data visuals
 
-# Portfolio
 
 # Discussion Examples
 
 ## Assignment: Controlling Colors Discussion Post
 For this assignment, the task was to create a sketch of one data visualization (I chose Rainbow Bars) and follow the questions within the Good Charts Workbook. 
+![Image Description](IMG_1837.jpg)
 
 
 
