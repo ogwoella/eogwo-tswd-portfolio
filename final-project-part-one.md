@@ -39,29 +39,26 @@ The story follows a three-act structure and is told through a "commute" frame: t
 ## Initial sketches
 > The sketches below follow the story arc in order. The numbers in them are placeholders that show the shape of each chart; real values will come from the datasets listed below.
 
-Sketch 1: Title screen and hook (Act I). A full-width photo of a snowy bus stop, the title, and the 7:40 a.m. scenario that starts the commute.
+Sketch 1: How people near campus get there (Act I). Commuting mode for university-area census tracts, next to a simple map of bus corridors into Oakland.
 
-Sketch 1
+<img width="1738" height="1110" alt="IMG_1841" src="https://github.com/user-attachments/assets/fabadf53-b7c8-4325-b0d8-cba05fccb7c5" />
 
-Sketch 2: How people near campus get there (Act I). Commuting mode for university-area census tracts, next to a simple map of bus corridors into Oakland.
 
-Sketch 2
+Sketch 2: The bus in winter (Act II). Monthly on-time percentage for university-area routes, with monthly snowfall shown as bars behind the line. A dropdown will let readers pick a route.
 
-Sketch 3: The bus in winter (Act II). Monthly on-time percentage for university-area routes, with monthly snowfall shown as bars behind the line. A dropdown will let readers pick a route.
+<img width="1411" height="1211" alt="IMG_1842" src="https://github.com/user-attachments/assets/ebb0f794-82c5-4da1-92f6-ab82952dc2e0" />
 
-Sketch 3
 
-Sketch 4: The car in winter (Act II). A heat map of crashes on snowy, slushy, or icy roads by month and hour, with the winter morning commute highlighted.
+The car in winter (Act II). A heat map of crashes on snowy, slushy, or icy roads by month and hour, with the winter morning commute highlighted.
 
-Sketch 4
 
-Sketch 5: Walking in winter (Act II). A neighbourhood map of 311 snow and ice requests and a monthly bar chart showing when they peak.
+Sketch 4: Walking in winter (Act II). A neighbourhood map of 311 snow and ice requests and a monthly bar chart showing when they peak.
 
-Sketch 5
+<img width="1736" height="1094" alt="IMG_1843" src="https://github.com/user-attachments/assets/dd5c9203-1c66-4ea7-9f36-559ce8b5b824" />
 
-Sketch 6: The bad day and what to do (Act III and resolution). A heavy snow day compared with a normal day, followed by the route explorer and winter tips.
 
-Sketch 6
+ The bad day and what to do (Act III and resolution). A heavy snow day compared with a normal day, followed by the route explorer and winter tips.
+
 
 # The data
 All of my data sources are public and free to download. Most come from the Western Pennsylvania Regional Data Center (WPRDC), the regional open data portal run by the University of Pittsburgh with the City of Pittsburgh and Allegheny County. For the bus, I will use Pittsburgh Regional Transit's monthly on-time performance and monthly ridership by route, filtered to routes that serve the university area, and compare winter months (December to February) with the rest of the academic year. For driving, I will use the Allegheny County crash data, which records the date, hour, location, weather, and road surface condition (for example, snow-covered, slush, or ice) of every reported crash, and count crashes on snowy and icy roads by month and hour. For walking, I will use City of Pittsburgh 311 data to count requests about snow, ice, and sidewalks by month and neighbourhood.
