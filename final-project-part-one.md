@@ -11,8 +11,6 @@
 The topic is deliberately narrow: one group (graduate students), one place (the routes and neighbourhoods around the university area), one season (winter), and one question (how does winter change the trip to campus?).
 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
-
 One-sentence summary: When winter comes to Pittsburgh, every way of getting to campus becomes less reliable at the same time, and graduate students, who depend most on buses and their own feet, feel it most.
 
 Audience: Graduate students in Pittsburgh, especially new and international students facing their first Pittsburgh winter. A secondary audience is university graduate offices, student government, and transportation staff who make decisions about shuttles, class policies, and winter communication.
@@ -65,7 +63,6 @@ All of my data sources are public and free to download. Most come from the Weste
 
 To connect these to the weather, I will use NOAA daily summaries for Pittsburgh International Airport (snowfall, snow depth, and temperature) to identify snow days and monthly snowfall totals, and join them to the other datasets by month and by day. American Community Survey data from the U.S. Census Bureau will show how residents of university-area census tracts travel to work or school and confirm that these tracts have large graduate student populations. None of these datasets identify graduate students directly, so I will use the routes and neighbourhoods around the university area as a stand-in and state this clearly in the story. If my instructor approves, I may add a short anonymous survey of classmates about their winter commute to bring in graduate students' own voices. Cleaned copies of the data will be stored in the data/ folder of this repository.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
