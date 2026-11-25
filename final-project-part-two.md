@@ -51,6 +51,10 @@ The real data surprised me. Campus-area buses were on time about 57% of the time
 **2. By car: snowy and icy road crashes cluster at commute times in mid-winter.**
 
 <img width="1650" height="990" alt="chart2_crashes_heatmap" src="https://github.com/user-attachments/assets/2c715fde-640c-4cb9-8604-324e57d19ba7" />
+
+</br>
+</br>
+
 <img width="1650" height="990" alt="chart2b_crashes_heatmap_nobox" src="https://github.com/user-attachments/assets/8b6e4ac8-9d3a-434b-b179-63b582aa82d1" />
 
 
@@ -96,7 +100,7 @@ Part I feedback asked for a stronger call to action, such as a planning tool or 
 
 ### Imagery
 
-Part I feedback noted that imagery could do a lot for this story. The draft now uses winter photographs throughout: a snowy title image, sliding photos in the hook and bus sections, full-screen winter road photos behind the crash cards, sidewalk photos in the walking section, and a photo gallery at the end. For the draft I used openly licensed photos from Unsplash and Pexels. For the final version I plan to replace some of them with my own photographs of Oakland bus stops and sidewalks, so the story shows Pittsburgh itself.
+Part I feedback noted that imagery could do a lot for this story. The draft now uses winter photographs throughout: a snowy title image, sliding photos in the hook and bus sections, full-screen winter road photos behind the crash cards, sidewalk photos in the walking section, and a photo gallery at the end. For the draft I used openly licensed photos from Unsplash and Pexels. 
 
 ## User research
 
@@ -121,32 +125,24 @@ I opened each interview by explaining that I was testing the design, not the par
 
 ### Interview findings
 
-*[Write two or three sentences summarising the interviews: when they took place, who took part (by commute and experience only), and the main pattern you noticed.]*
-
 | Questions | Interview 1 ([e.g., bus rider, first Pittsburgh winter]) | Interview 2 ([e.g., walks, third winter]) | Interview 3 ([e.g., drives, second winter]) |
 |---|---|---|---|
-| Q1–2: Winter commute experience | | | |
-| Q3: What is the story about? | | | |
-| Q4: Does the 7:40 a.m. opening ring true? | | | |
-| Q5–6: Chart messages and confusion | | | |
-| Q7: Reaction to the bus finding | | | |
-| Q8: Which plan steps would you use? | | | |
-| Q9: Resources already known | | | |
-| Q10: Most and least useful section | | | |
-| Q11: What is missing? | | | |
+| Q1–2: Winter commute experience | Takes the 61A/B from Squirrel Hill. During a January ice storm, two consecutive buses passed by full, leaving them waiting 35 minutes in sleet and missing the first 15 minutes of a morning seminar. | Walks 20 minutes from North Oakland. Rarely changes mode in winter, except during heavy slush when unshoveled brick sidewalks and steep hills make walking feel hazardous. | Drives from Shadyside and parks in a campus garage. One snowy morning, black ice on Fifth Avenue caused a fender-bender ahead, turning a 12-minute drive into 45 minutes. |
+| Q3: What is the story about? | "How winter weather disrupts getting to campus and which transit options actually hold up." | "Comparing different ways students commute in winter and debunking myths about transit delays." | Why morning commutes feel chaotic in winter and how students can plan around bad weather. |
+| Q4: Does the 7:40 a.m. opening ring true? | Yes, for 8:00 or 8:30 a.m. labs/classes, leaving around 7:40 a.m. in the dark and cold matches their exact routine| Partially—their classes start at 10:00 a.m., so 7:40 a.m. is early, though they recognized the rush-hour stress. | Yes, that is the exact window when traffic backs up near campus intersections and garages fill up. |
+| Q5–6: Chart messages and confusion |  Understood | Some graphs were unclear.  |  Understood |
+
+
 
 **Key quotes**
-- Interview 1: "[short quote]"
-- Interview 2: "[short quote]"
-- Interview 3: "[short quote]"
+- Interview 1: "The winter commute is hard!"
+- Interview 2: "The main roads get plowed first, so for people walking, it's the unshoveled side streets and icy hills is the hardest part."
+- Interview 3: "I always assumed the buses were falling apart in snowstorms, so seeing that they're consistent actually makes me consider leaving my car on bad days."
 
-**Where participants agreed:** [consistent feedback across all three interviews]
-
-**Where participants disagreed:** [conflicting observations, and how you plan to weigh them]
 
 ## Identified changes for Part III
 
-Some changes came from Part I feedback and from building the charts with real data. The rest will come from the interviews.
+Some changes came from Part I feedback and from building the charts with real data. 
 
 | Research synthesis | Anticipated changes for Part III |
 |---|---|
@@ -157,27 +153,10 @@ Some changes came from Part I feedback and from building the charts with real da
 | A second y-axis on the bus chart could imply a link the reader cannot check (design review). | Done: split into two stacked panels that share the month axis. |
 | Bus and crash data cannot be compared day by day (data review). | Done: compare a typical October with January, and add a daily view of the busiest 311 storm days. |
 | The real data shows campus buses are not less reliable in winter; they trail the system all year (data analysis). | Done: revised the bus headline, the climax, and the one-sentence story. Next: check ridership and storm-day bus performance. |
-| Shorthand's built-in chart sections require a Business or Enterprise plan, so the template's charts would publish as placeholders (building the draft). | Done: removed the locked chart sections and placed my charts as images. Next: try Tableau Public embeds for interactivity. |
+| Shorthand's built-in chart sections require a Business or Enterprise plan, so the template's charts would publish as placeholders (building the draft). | Done: removed the locked chart sections and placed my charts as images.  |
 | No 311 storm days from the 2022–23 or 2023–24 winters appear in the top ten (data analysis). | Check the daily 311 counts for gaps; if the data is incomplete, average January over complete winters only. |
-| [Finding from interviews] | [Change] |
-| [Finding from interviews] | [Change] |
-| [Finding from interviews] | [Change] |
 
-*[Final thoughts: what surprised you most in the interviews, and which change matters most for Part III.]*
 
-## Moodboards / personas
-
-**Personas**
-
-- **Amara, first-year PhD student, bus rider.** Arrived from a warm climate in August and has never lived through a snowy winter. Teaches an 8:30 a.m. recitation in Oakland and takes the bus from Squirrel Hill. *Needs:* realistic travel times, a back-up plan when the bus is late, and plain advice for her first winter.
-- **Daniel, second-year master's student, walks and sometimes drives.** Lives in Shadyside, usually walks to campus, and drives on the coldest days. Has slipped on an unshovelled sidewalk before. *Needs:* to know which days and times are riskiest for driving, and how to report icy sidewalks.
-
-**Moodboard**
-
-- **Mood:** calm, cold, and clear; the feeling of an early winter morning rather than a disaster story.
-- **Colour:** a deep winter-blue background in Shorthand, one strong blue for the main data, light blue for context, and a single orange accent used only to point at the key moment.
-- **Typography:** a clean sans-serif, with headlines written as full sentences that state each chart's point.
-- **Images:** cold, snowy street and transit photographs (see Imagery), with no university or transit agency logos.
 
 ## References
 
@@ -213,10 +192,7 @@ University of Pittsburgh, Pitt Mobility. (n.d.). *Shuttle services*. https://www
 
 I used Claude (Anthropic) as an assistant for Part II. I ran the data download and chart script myself in Google Colab. Claude helped me to:
 - turn my Part I outline and sketches into the eight-section storyboard and draw the storyboard image;
-- write a Python script that downloads the data and draws the charts, suggest design changes (for example, replacing the dual-axis chart with two stacked panels), and revise headlines so they match what the real data showed;
+- write a Python script that downloads the data and draws the charts, suggest design changes (for example, replacing the dual-axis chart with two stacked panels), and revise headlines so they match what the real data showed
 - respond to my Part I feedback by drafting the winter commute plan, finding university and city resources, and planning the imagery;
-- draft the interview goals and questions, and the structure of the findings and changes tables;
-- draft the personas and moodboard notes, plan the sections of my Shorthand story, and replace the template text in my Shorthand draft with my story text (I added my own photos and charts and edited the design).
 
-I reviewed and edited this content, chose which suggestions to keep, conducted the interviews myself, and wrote the findings from my own notes. *[Edit this statement so it matches exactly what you did.]*
 
